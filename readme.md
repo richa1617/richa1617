@@ -5,7 +5,7 @@ I am a passionate self-taught full stack web developer
 
 <h3 align="center" style='color:#0E3386;'>🌱 My Journey 🌱</h3>
 
-<p >I am a former Physiotherapist, transitioning into the tech industry, specifically focusing on Front-End Development. . I started with <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/4BB389KHS2UM">Meta's Front-End Developer Specialisation</a> and further honed my skills through a rigorous 10-week coding bootcamp at <a href="https://www.mindmingle.nl/certificates/class-0/Richa-Mahajan.pdf">Mind-Mingle</a>. From helping individuals recover physically as a physiotherapist, I now aim to create impactful and accessible digital experiences for users.</p>
+<p >I am a former Physiotherapist, transitioning into the tech industry, specifically focusing on Front-End Development. I started with <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/4BB389KHS2UM">Meta's Front-End Developer Specialisation</a> and further honed my skills through a intensive 10-week coding bootcamp at <a href="https://www.mindmingle.nl/certificates/class-0/Richa-Mahajan.pdf">Mind-Mingle</a>. From helping individuals recover physically as a physiotherapist, I now aim to create impactful and accessible digital experiences for users.</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/mahajan-richa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,3 +64,5 @@ I am a passionate self-taught full stack web developer
     - **Styling**: Tailwind CSS, Shadcn, Framer-motion.
 
 - [Live Demo](https://physioplus.vercel.app/)
+
+![PhysioScan](./asset/homepage.png)
