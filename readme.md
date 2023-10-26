@@ -65,4 +65,24 @@ I am a passionate self-taught full stack web developer
 
 - [Live Demo](https://physioplus.vercel.app/)
 
-![PhysioScan](./asset/homepage.png)
+![PhysioScan](./asset/physio_homepage.png)
+
+### Home Chef Recipe
+
+- **Description**: A go-to source for quick, delicious recipes. Dive into a communit where you can discover, rate, and share culinary creations or contribute your favorites.
+
+  - **Features**:
+
+    - Registration and login functionality using JWT for authentication, bcrypt for password hashing, and Zod for data validation.
+    - Access to all recipes without the need for registration.
+    - Detailed recipe information view, including ingredients and cooking instructions.
+    - Dashboard page for registered users where they can add,edit, and delete their recipes.
+    - Comment form to provide ratings and comments for displayed recipes.
+    - User-friendly and responsive design with a modern look or an enjoyable user experience.
+
+  - **Tech Stack**:
+    - **Frontend**: Next.js, React, TypeScript, Leaflet.
+    - **Backend**: Prisma ORM, Express.
+    - **Styling**: Tailwind CSS, Shadcn, Framer-motion.
+
+!(./asset/recipe_homepage.png)
