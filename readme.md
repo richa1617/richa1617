@@ -20,25 +20,25 @@ I am a passionate self-taught full stack web developer
 <hr>
 
 <h2 align="center" style='color:#0E3386;'>🛠 SKILLS 🛠</h2>
+### FRONT END
+![HTML5](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-3C873A?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-15B7B9?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h5>FRONT END</h5>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-3C873A?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-15B7B9?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
-</p>
+### BACKEND
 
-<h5>BACKEND</h5>
-<p>
-  <img src="https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=red" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Prisma-8A2BE2?style=for-the-badge&logo=prisma&logoColor=white" />&nbsp;&nbsp;
-</p>
+![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=red)
+![Prisma](https://img.shields.io/badge/Prisma-8A2BE2?style=for-the-badge&logo=prisma&logoColor=white)
 
-<h5>TESTING</h5>
+### TESTING
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />&nbsp;&nbsp;
@@ -65,7 +65,7 @@ I am a passionate self-taught full stack web developer
 
 - [Live Demo](https://physioplus.vercel.app/)
 
-![PhysioScan](./asset/physio_homepage.png)
+![PhysioScan](asset/physio_homepage.png)
 
 ### Home Chef Recipe
 
@@ -85,4 +85,4 @@ I am a passionate self-taught full stack web developer
     - **Backend**: Prisma ORM, Express.
     - **Styling**: Tailwind CSS, Shadcn, Framer-motion.
 
-!(./asset/recipe_homepage.png)
+![Recipe](assets/recipe_homepage.png)
