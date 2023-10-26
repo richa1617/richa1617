@@ -62,7 +62,7 @@ I am a passionate self-taught full stack web developer
 
 - [Live Demo](https://physioplus.vercel.app/)
 
-![PhysioScan](./asset/physio_homepage.png)
+<img src="assets/physio_homepage.png" style="width: 300px; height: 400px;">
 
 ### Home Chef Recipe
 
@@ -82,4 +82,4 @@ I am a passionate self-taught full stack web developer
     - **Backend**: Prisma ORM, Express.
     - **Styling**: Tailwind CSS, Shadcn, Framer-motion.
 
-![Recipe](./asset/recipe_homepage.png)
+<img src="assets/recipe_homepage.png" style="width: 300px; height: 400px;">
